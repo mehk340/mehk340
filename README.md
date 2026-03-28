@@ -19,8 +19,8 @@ I'm a professional based in Ahmedabad, Gujarat, where I bridge the gap between b
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mehk340&show_icons=true&theme=radium&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehk340&theme=radium&hide_border=true&layout=compact" />
 </div>
 
 ### 📫 Let's Connect
